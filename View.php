@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace parthkapatel\phpmvc;
 
 
 class View

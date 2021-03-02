@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace parthkapatel\phpmvc;
 
-use app\core\exception\NotFoundException;
+use parthkapatel\phpmvc\exception\NotFoundException;
 
 class Router
 {

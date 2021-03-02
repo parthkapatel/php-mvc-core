@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace parthkapatel\phpmvc;
 
-use app\core\db\Database;
+use parthkapatel\phpmvc\db\Database;
 
 class Application
 {
